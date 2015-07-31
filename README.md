@@ -1,5 +1,5 @@
 # shorty
-ng command set for Linux
+root ng command set for Linux
 
 installation
 
